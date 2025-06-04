@@ -1,0 +1,1 @@
+alert('Welcome to the registration page.')     // script file for prompting the message
