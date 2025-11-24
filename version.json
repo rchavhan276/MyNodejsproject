@@ -1,0 +1,10 @@
+{
+  "appVersion": "v1.7.0-alpha.12",
+  "appEnv": "development",
+  "backendCompatibleVersion": "v1.7.0-alpha.12",
+  "build": {
+    "buildDate": "2025-11-18T00:00:00+00:00",
+    "serviceDescription": "Authentication & User Management Service",
+    "service": "mycode"
+  }
+}
