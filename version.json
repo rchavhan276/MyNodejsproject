@@ -1,6 +1,6 @@
 {
-  "appVersion": "1.8.0-alpha.13",
-  "appEnv": "development",
+  "appVersion": "1.8.0-alpha.14",
+  "appEnv": "test",
   "backendCompatibleVersion": "1.8.0-alpha.12",
   "build": {
     "buildDate": "2025-11-18T00:00:00+00:00",
