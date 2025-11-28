@@ -1,5 +1,5 @@
 {
-  "appVersion": "v1.4.0",
+  "appVersion": "v1.4.1",
   "appEnv": "production",
   "backendCompatibleVersion": "1.8.0-alpha.12",
   "build": {
