@@ -1,0 +1,30 @@
+export const APP_VERSION = {
+	appVersion: '1.7.1',
+	backendCompatibleVersions: {
+		'alarm-api': '1.7.1',
+		'asset-api': '1.7.1',
+		'notification-new-api': '1.7.1',
+		'document-api': '1.7.1',
+		'report-api': '1.7.1',
+		'global-api': '1.7.1',
+		'auth-api': '1.7.1',
+		'utility-api': '1.7.0',
+		'healthcheck-svc': '1.7.1',
+		'support-svc': '1.7.1',
+		'chat-svc': '1.7.1',
+		'scheduled-jobs': '1.7.1',
+		'FAQ-svc': '1.7.0',
+		'netra-admin-api': '1.0.0',
+		'config-svc': '1.3.1',
+		'alarm-svc-rust': '1.7.1',
+		'trending-svc-rust': '1.7.1',
+		'trending-api': '1.7.1',
+		'rule-svc': '1.0.0',
+		'event-collector-svc': '1.0.0',
+		'db-sync': '1.7.0',
+		'data-bridge-svc-v2': '1.7.1',
+	},
+	build: {
+		buildDate: '13-11-2025', //DD-MM-YYYY
+	},
+};
