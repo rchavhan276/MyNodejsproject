@@ -1,5 +1,5 @@
 export const APP_VERSION = {
-	appVersion: '1.7.4',
+	appVersion: '1.7.5',
 	backendCompatibleVersions: {
 		'alarm-api': '1.7.1',
 		'asset-api': '1.7.1',
